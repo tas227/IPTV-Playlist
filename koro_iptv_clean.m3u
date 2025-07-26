@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/France_24_logo.svg" group-title="News (FR)",France 24
+https://static.france24.com/live/F24_FR_HI/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV5Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TV5MONDE_logo_2016.svg" group-title="News (FR)",TV5Monde
+https://mn-nl.mncdn.com/tv5monde/smil:tv5monde.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ORTM" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/59/ORTM_logo.png" group-title="News (ML)",ORTM
+http://play.tvmali.ml/ORTM/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="VOA Afrique" tvg-logo="https://www.voaafrique.com/pfpb/480/2023/01/17/5c2d1e27-9e89-4f2c-b678-ec2e45fc551b.png" group-title="News (USA/FR)",VOA Afrique
+https://voa-video.streamguys1.com/live/voa_france.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="L'Équipe Live" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4a/L%27Équipe_21_-_logo_2020.svg" group-title="Sport (FR)",L'Équipe Live
+https://live-akam.akamaized.net/hls/live/685964/lelive/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/CBS_Sports_HQ_logo.svg" group-title="Sport (USA)",CBS Sports HQ
+https://cbshd-lh.akamaihd.net/i/cbshd_1@304828/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BET Her" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/BET_Her_2020_logo.svg" group-title="Séries (USA)",BET Her
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-redboxbether/CDN/master.m3u8
+
