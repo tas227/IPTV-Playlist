@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,CNN Live (Samsung)
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1,CGTN English
+https://englishlive.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1,Africa 24
+https://live.creacast.com/africa24/smil:africa24.smil/playlist.m3u8
+#EXTINF:-1,France 24
+https://static.france24.com/live/F24_FR_HI/index.m3u8
