@@ -1,1 +1,27 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 (FR)" group-title="News",France 24
+https://static.france24.com/live/F24_FR_HI/index.m3u8
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="TV5Monde" group-title="News",TV5Monde
+https://mn-nl.mncdn.com/tv5monde/smil:tv5monde.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VOAAfrique.fr" tvg-name="VOA Afrique" group-title="News",VOA Afrique
+https://voa-video.streamguys1.com/live/voa_france.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="CGTN.en" tvg-name="CGTN English" group-title="News",CGTN English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="Africa24.fr" tvg-name="Africa 24" group-title="News",Africa 24
+https://live.creacast.com/africa24/smil:africa24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.en" tvg-name="Al Jazeera English" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="ORTM.ml" tvg-name="ORTM" group-title="Africa",ORTM (Mali)
+http://play.tvmali.ml/ORTM/index.m3u8
+#EXTINF:-1 tvg-id="ORTN.ne" tvg-name="ORTN" group-title="Africa",ORTN (Niger)
+http://ortn.dyndns.tv:8080/hls/ortn.m3u8
+#EXTINF:-1 tvg-id="CanalFoot.fr" tvg-name="Canal+ Foot" group-title="Sport",Canal+ Foot
+http://iptv-edge8.orange.fr/live-multicanaux/CanalPlusFoot/playlist.m3u8
+#EXTINF:-1 tvg-id="BeIN.fr" tvg-name="BeIN Sports 1" group-title="Sport",BeIN Sports 1
+https://felixstream.xyz/hls/bein1.m3u8
+#EXTINF:-1 tvg-id="RedBull.en" tvg-name="Red Bull TV" group-title="Sport",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN (Samsung)" group-title="News",CNN (Samsung TV)
+https://dai.google.com/linear/hls/event/NtciS3xeTzGlH-CNusmRMw/master.m3u8
