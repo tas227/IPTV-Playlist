@@ -1,7 +1,27 @@
 #EXTM3U
-#EXTINF:-1,Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1,Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,CNN Live (Samsung)
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/France_24_logo.png" group-title="News",France 24 (FR)
+https://static.france24.com/live/F24_FR_HI/index.m3u8
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4e/LCI_logo_2016.svg" group-title="News",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/BFMTV_logo_2016.svg" group-title="News",BFM TV
+http://bfmtv-i.akamaihd.net/hls/live/218332/876450610001/bfmtv/index.m3u8
+#EXTINF:-1 tvg-id="CNEWS.fr" tvg-name="CNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9f/CNEWS_logo_2017.svg" group-title="News",CNEWS
+http://cnews-i.akamaihd.net/hls/live/218333/876450610002/cnews/index.m3u8
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="TV5Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/TV5Monde_logo_2016.svg" group-title="News",TV5Monde
+http://tv5monde-i.akamaihd.net/hls/live/218334/876450610003/tv5monde/index.m3u8
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="Euronews (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Euronews_2021_logo.svg" group-title="News",Euronews (FR)
+http://euronews-i.akamaihd.net/hls/live/218335/876450610004/euronews/index.m3u8
+#EXTINF:-1 tvg-id="Africa24.fr" tvg-name="Africa 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Africa24_logo.png" group-title="News",Africa 24
+https://live.creacast.com/africa24/smil:africa24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN.en" tvg-name="CGTN English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/CGTN_logo.svg" group-title="News",CGTN English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="CanalFoot.fr" tvg-name="Canal+ Foot" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1b/Canal%2B_Foot_logo_2021.svg" group-title="Sports",Canal+ Foot
+http://canalfoot-i.akamaihd.net/hls/live/218336/876450610005/canalfoot/index.m3u8
+#EXTINF:-1 tvg-id="BeINSports.fr" tvg-name="BeIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/BeIN_Sports_logo.svg" group-title="Sports",BeIN Sports 1
+http://beinsports1-i.akamaihd.net/hls/live/218337/876450610006/beinsports1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.fr" tvg-name="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Eurosport_1_logo_2015.svg" group-title="Sports",Eurosport 1
+http://eurosport1-i.akamaihd.net/hls/live/218338/876450610007/eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="ORTM.ml" tvg-name="ORTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/ORTM_logo.png" group-title="Africa",ORTM
+http://ortm-i.akamaihd.net/hls/live/218339/876450610008/ortm/index.m3u8
+#EXTINF:-1 tvg-id="ORTN.ne" tvg-name="ORTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/ORTN_logo.png" group-title="Africa",ORTN
+http://ortn-i.akamaihd.net/hls/live/218340/876450610009/ortn/index.m3u8
